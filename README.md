@@ -1,0 +1,1 @@
+This is project for prediction diabetes using diabetes dataset .
